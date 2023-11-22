@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'lmilk';
+    src: url('lmilk.ttf') format('ttf'),
+  }
+  
+  body {
+    font-family: 'lmilk', sans-serif;
+  }
+  
